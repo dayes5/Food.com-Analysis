@@ -1,4 +1,4 @@
-# Recipes and Ratings from Food.com Exploratory Data Analysis
+# Recipes and Ratings from Food.com Analysis
 
 ## Introduction
 
